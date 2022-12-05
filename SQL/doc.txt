@@ -1,1 +1,0 @@
-CONTAINS THE SQL QUERIES AND THE Student_demo file containing the data exported from the database
